@@ -1,0 +1,29 @@
+
+body{
+ background-color: darkslategrey;
+ font-family: dancing script;
+ padding: 3;
+}
+h1{
+    background-color: black;color: white;
+    letter-spacing: 0.5em;
+    text-align: center;
+    text-shadow: 2px 2px 1px  ;
+}
+h2{
+    background-color: black;color: white;
+    text-transform: lowercase;
+    text-decoration: underline ;
+    word-spacing: 1em;
+    border-radius: 22px;
+}
+p{
+    background-color: black  ;color: white;
+    font-size: x-large;
+    line-height: 1.5em;
+    text-align: justify;
+}
+@font-face{
+    font-family: dancing script;
+    src: url(./fonts/DancingScript-VariableFont_wght.ttf);
+}
