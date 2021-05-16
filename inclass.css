@@ -1,0 +1,116 @@
+
+.two{
+    display: inline;
+    margin: 10px;
+    box-shadow: rgb(0, 0, 134) ; 
+}
+.first{
+    display: inline-block;
+    
+    
+}
+.second{
+    text-align: right;
+    position: relative;
+    top: -40px;
+    margin-right: 12px;
+    margin-top: -6px;
+    font-family: cursive;
+}
+.one{
+    background-color: white;
+    height: 55px;
+}
+#three{
+    background-color: white;
+    border-style: double;
+    padding: 2px;
+    margin: 0;
+    font-family: cursive;
+
+}
+.third{
+    width: 40%;
+    margin-top: 22px;
+    margin-left: 102px;
+
+}
+#fourth{
+    background-color:	#400000;
+    width: 91%;
+    margin-left: -28px;
+}
+body{
+    background-color:#373737
+}
+.p{
+    width: 100%;
+}
+#fifth{
+    width: 61%;
+    float: right;
+    margin-top: -251px;
+}
+#head{
+    background-color:yellow ;
+    color: black;
+}
+p{
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+}
+#img{
+    border: 5px solid white;
+}
+#main{
+    background-color: #373737;
+    margin-top: 32px;
+    margin-left: 89px;
+    margin-right: -464px;
+}
+#A{
+    width: 16%;
+    height: 238px;
+    background-color:#400000;
+    overflow: auto;
+    margin-left: 10px;
+    display: inline-block;
+}
+#head2{
+    background-color:	yellow;
+    color: black;
+}
+#B{
+    width: 16%;
+    height: 238px;
+    background-color:#400000;
+    overflow: auto;
+    display: inline-block ;
+}
+#head3{
+    background-color:	yellow;
+    color: black;
+}
+#C{
+    width: 16%;
+    height: 238px;
+    background-color:#400000;
+    overflow: auto;
+    display: inline-block ;
+}
+#head4{
+    background-color:	yellow;
+    color: black;
+}
+#D{
+    width: 16%;
+    height: 238px;
+    background-color:#400000;
+    overflow: auto;
+    display: inline-block ; 
+}
+#head5{
+    background-color:	yellow;
+    color: black;
+}
